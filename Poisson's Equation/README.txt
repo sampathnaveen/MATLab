@@ -1,0 +1,1 @@
+Developed a simulation tool that would ask a user the type of the semiconductor (p or n type), doping density, and surface potential in a silicon based MOS capacitor and then plot the energy diagram only in the semiconductor
